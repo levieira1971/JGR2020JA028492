@@ -1,4 +1,10 @@
 # JGR2020JA028492
+Manuscript #	2020JA028492 
+Current Revision #	0
+Submission Date:	2020-07-16 19:28:16
+Title:	Dynamic mechanisms associated with high-energy electron flux dropout in the Earth's outer radiation belt under the influence of a coronal mass ejection sheath region
+Authors: Ligia Da Silva et al. 
+
 Proton and electron flux (Space Weather Suite / Space Environment Monitor / High Energy Particle Detector (SWS/SEM/HEPD) instrument onboard FengYun series spacecraft 3C)
 
 1.  year
